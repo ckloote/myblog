@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Kloote</title>
+    <link>http://charles.kloote.me/</link>
+    <description>Recent content on Charles Kloote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://charles.kloote.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://charles.kloote.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://charles.kloote.me/about/</guid>
+      <description>Charles Kloote is an experienced Systems Engineer who leads a team building a large scale security analytics platform. He has strong interests in operations and software development best practices, as well as open source software. He enjoys gaming, music, movies, and occasionally rants about public policy and politics.
+Charles lives in Indianapolis with his wife, two daughters, and cat.</description>
+    </item>
+    
+  </channel>
+</rss>
